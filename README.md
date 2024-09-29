@@ -35,4 +35,4 @@
 <p>Each folder within this repository corresponds to one of the key areas listed above. Inside each folder, you'll find the respective project files, along with detailed documentation and descriptions of the work done.</p>
 <br>
 <h3>📞 Get In Touch</h3><br>
-<P>If you have any questions or would like to collaborate on a project, feel free to reach out via <a href= "mailto: gouravbhattofficial@gmail.com"> Gmail </a> or <a href= "mailto: www.linkedin.com/in/gourav-bhattacharjee-a133b9295.com"> LinkedIN </a> </P>
+<P>If you have any questions or would like to collaborate on a project, feel free to reach out via <a href= "mailto: gouravbhatt244@gmail.com"> Gmail </a> or <a href= "mailto: www.linkedin.com/in/gourav-bhattacharjee-a133b9295.com"> LinkedIN </a> </P>
